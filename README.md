@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jai Saravanan B
+- 👀 I’m interested in coding and technology.
+- 🌱 I’m currently working in AWS, Angular, React.
+- 📫 Reach me at jaisaravanan.cs@gmail.com
