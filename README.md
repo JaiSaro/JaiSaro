@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jai Saravanan B, BE - CSE graduated, working as `Senior Software Developer` with 5+ years experience @Knackforge.
-- 👀 I’m interested in coding, web and cloud technology.
-- 🌱 I’m currently working in React JS, Angular, python, NodeJS, AWS.
+- 👋 Hi, I’m @Jai Saravanan B, BE - CSE graduate, working as `Senior Software Developer` with 5+ years of experience @Knackforge.
+- 👀 I’m interested in coding, web, and cloud technology.
+- 🌱 I’m currently working in React JS, Angular, python, NodeJS, and AWS.
 - 📫 Reach me at jaisaravanan.cs@gmail.com
-- For More information check at http://jaisaravanan.com/
+- For more information check at http://jaisaravanan.com/
